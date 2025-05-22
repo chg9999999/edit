@@ -417,6 +417,7 @@
 * [Waveformer](https://waveformer.replicate.dev/) / [GitHub](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
 * [Mubert](https://mubert.com/)
+* [LyricsToSongAi](https://lyricstosongai.com/)
 * [AIVA](https://aiva.ai/) / [Discord](https://discordapp.com/invite/ypDnFXN)
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [Melobytes](https://melobytes.com/en)
